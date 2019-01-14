@@ -1,0 +1,4 @@
+UAV-Mapper is a lightweight UAV Image Processing System, focusing on the UAV image processing, fast stitching, 3D reconstruction and so on.
+ We will continue to update this software all the time. In addition to its own modules, it gets support from many open source free software. 
+A list of open source software will be listed. UAV-Mapper is for non-commercial and non-profit purposes. It should be used for research and education purposes.
+ You should comply with the third party copyright license. Please indicate the source when using it.Thank you.

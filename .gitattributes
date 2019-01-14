@@ -1,0 +1,3 @@
+*.dll linguist-language=c++
+*.jpg linguist-language=c++
+*.txt linguist-language=c++
